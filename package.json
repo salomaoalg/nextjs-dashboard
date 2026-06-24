@@ -33,5 +33,13 @@
       "bcrypt",
       "sharp"
     ]
+  },
+  "allowScripts": {
+    "file:.pnpm/bcrypt@5.1.1/node_modules/bcrypt": true,
+    "file:.pnpm/postgres@3.4.9/node_modules/postgres": true,
+    "file:../../postcss-selector-parser@6.1.4/node_modules/postcss-selector-parser": true,
+    "file:../../node-fetch@2.7.0/node_modules/node-fetch": true,
+    "file:../../minipass@5.0.0/node_modules/minipass": true,
+    "file:../../preact@10.11.3/node_modules/preact": true
   }
 }
